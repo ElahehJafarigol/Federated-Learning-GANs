@@ -13,3 +13,5 @@ We address the issue of imbalanced learning in a federated setting by generating
 methods. The local stations train the balanced data, and the encrypted model weights are sent to the global server for aggregation. 
 The results of balanced data training are compared with those of imbalanced data in the federated learning framework
 ![image](https://github.com/ElahehJafarigol/Federated-Learning/assets/64182149/d885bd20-d351-4426-9b63-b101a6a0e57d)
+
+![image](https://github.com/ElahehJafarigol/Federated-Learning-GANs/assets/64182149/8964ac44-d5b3-43b4-8b0a-119926ad351c)
